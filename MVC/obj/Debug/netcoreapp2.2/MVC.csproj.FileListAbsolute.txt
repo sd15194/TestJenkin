@@ -5,7 +5,6 @@ E:\Publish\Core MVC\MVC\MVC\MVC\bin\Debug\netcoreapp2.2\MVC.dll
 E:\Publish\Core MVC\MVC\MVC\MVC\bin\Debug\netcoreapp2.2\MVC.pdb
 E:\Publish\Core MVC\MVC\MVC\MVC\bin\Debug\netcoreapp2.2\MVC.Views.dll
 E:\Publish\Core MVC\MVC\MVC\MVC\bin\Debug\netcoreapp2.2\MVC.Views.pdb
-E:\Publish\Core MVC\MVC\MVC\MVC\obj\Debug\netcoreapp2.2\MVC.csprojAssemblyReference.cache
 E:\Publish\Core MVC\MVC\MVC\MVC\obj\Debug\netcoreapp2.2\MVC.csproj.CoreCompileInputs.cache
 E:\Publish\Core MVC\MVC\MVC\MVC\obj\Debug\netcoreapp2.2\MVC.RazorAssemblyInfo.cache
 E:\Publish\Core MVC\MVC\MVC\MVC\obj\Debug\netcoreapp2.2\MVC.RazorAssemblyInfo.cs
